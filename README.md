@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Speech and Audio Synthesis<br>👯 I’m looking to collaborate on Speech AI topics<br>🌱 I’m currently a PhD student at Dhirubhai Ambani University (DAU).<br>💬 Ask me about Speech AI research ... <br>⚡ Accepted Publications: <br>     👉 Journals: Speech Communications x 1<br>     👉 ICASSP: 2026 x 1 (Evolving AASIST)<br>     👉 NeurIPS'W: 2024x 1 (MLADDC)<br>     👉 ICPR: 2024 x 2<br>     👉 APSIPA: 2024 x 8, 2925 x 4
+🔭 I’m currently working on Speech and Audio Synthesis<br>👯 I’m looking to collaborate on Speech AI topics<br>🌱 I’m currently a PhD student at Dhirubhai Ambani University (DAU).<br>💬 Ask me about Speech AI research ... <br>⚡ Accepted Publications: <br>     👉 Journals: Speech Communications x 1, IEEE Signal Processing Letters x 1<br>     👉 ICASSP: 2026 x 1 (Evolving AASIST)<br>     👉 NeurIPS'W: 2024x 1 (MLADDC)<br>     👉 ICPR: 2024 x 2<br>     👉 APSIPA: 2024 x 8, 2925 x 4
 
 
 ## 🌐 Socials:
